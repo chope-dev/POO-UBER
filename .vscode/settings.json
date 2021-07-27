@@ -1,6 +1,6 @@
 {
     "python.autoComplete.extraPaths": ["./Python"],
     "python.jediEnabled": true,
-    "python.languageServer": "Jedi",
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.languageServer": "Jedi"
 }
